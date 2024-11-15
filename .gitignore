@@ -1,0 +1,21 @@
+# 忽略npm下载的第三方包
+node_modules
+
+# 忽略分发文件夹/构建目录
+dist
+
+# 忽略VScode配置文件
+.vscode
+
+# 忽略密钥文件，证书
+*.pem
+*.cer
+*.crt
+*.key
+*.csr
+
+# 其他类型
+*.log
+
+# 特定文件
+xxx.txt
