@@ -49,8 +49,12 @@ html, body{
   text-decoration: none;
 }
 .nav li a.active{
+<<<<<<< HEAD
   /* color: #409eff !important; */
   color: red !important;
+=======
+  color: #409eff !important;
+>>>>>>> publish
 }
 
 /* 右侧区域 */

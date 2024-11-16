@@ -179,4 +179,8 @@ document.querySelector('.send').addEventListener('click', async (e) => {
   }
 })
 
+<<<<<<< HEAD
 // console.log()
+=======
+console.log()
+>>>>>>> publish
